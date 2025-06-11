@@ -2,7 +2,11 @@
 
 This changelog documents notable updates to the zBITX Wiki.
 
-## v1.0 – [1.0.0] - Initial Release Pending
+## v1.0 – [1.0.0] - Initial Release **Pending**
+
+## [0.0.3] - 2025-06-11 Drafting Expectations
+
+- Building Document from Recording Transcript
 
 ## [0.0.2] - 2025-06-09 Beginning As Built Documentation
 
