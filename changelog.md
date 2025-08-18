@@ -4,6 +4,11 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.0.5] - 2025-08-18 Updating Notes
+
+- Updating Notes
+
+
 ## [0.0.4] - 2025-06-24 Adding Reference Material
 
 - Added Switcher Manual
