@@ -4,6 +4,24 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.1.0] - 2025-10-19 PTZ In Startup
+
+- PTZ in Startup
+
+## [0.0.8] - 2025-10-18 Completing PTZ Installed -- Ready for Startup
+
+- Updating PTZ Folder, Config, Presets and Operating Notes
+
+## [0.0.7] - 2025-10-17 Completing PTZ Bench Testing Notes
+
+- Updating PTZ Folder, Config, and Operating Notes
+
+- Updating PTZ Folder, Config, and Operating Notes
+
+## [0.0.6] - 2025-10-15 Drafting PTZ Notes
+
+- Adding PTZ Folder, Config, and Operating Notes
+
 ## [0.0.5] - 2025-08-18 Updating Notes
 
 - Updating Notes
