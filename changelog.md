@@ -4,6 +4,11 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.1.1] - 2025-10-21 Added Action Item List and Camera Setting Notes
+
+- Added Action Item List
+- Added Camera Setting Notes
+
 ## [0.1.0] - 2025-10-19 PTZ In Startup
 
 - PTZ in Startup
