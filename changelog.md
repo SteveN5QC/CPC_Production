@@ -4,6 +4,11 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.1.3] - 2025-10-28 Added Camera Setup Sheet
+
+- Added Camera Setup Sheet spreadsheet
+- Create and Draft Content Tab
+
 ## [0.1.2] - 2025-10-24 Added remote camera exposure, color, and focus control
 
 - Added Remote Camera Exposure, color and focus control
