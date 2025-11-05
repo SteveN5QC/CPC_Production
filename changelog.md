@@ -4,6 +4,11 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.1.4] - 2025-11-05 Color Balancing info and Camera Manual Update
+
+- Replaced Camera Manual with Downloaded PDF
+- Added suggested method to deal with tungsten lighting and mixed lighting
+
 ## [0.1.3] - 2025-10-28 Added Camera Setup Sheet
 
 - Added Camera Setup Sheet spreadsheet
