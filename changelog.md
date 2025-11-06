@@ -4,6 +4,10 @@ This changelog documents notable updates to the zBITX Wiki.
 
 ## v1.0 – [1.0.0] - Initial Release **Pending**
 
+## [0.1.5] - 2025-11-06 Schedule Planning
+
+- Added Schedule.xls Scheduling Planner -- Currently Nov and December 2025
+
 ## [0.1.4] - 2025-11-05 Color Balancing info and Camera Manual Update
 
 - Replaced Camera Manual with Downloaded PDF
